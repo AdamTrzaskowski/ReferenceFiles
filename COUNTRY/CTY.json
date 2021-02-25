@@ -1,0 +1,1 @@
+﻿{"Type": "COUNTRY","Key": "CTY","MetaData": {"Folder":"","Id":"CTY","Name":"test"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"pCTY": "CTY","pCTYNAME": "test","pSORT": null,"pCTYNO": null,"pCTYFC1": "","pCTYFC2": "","pCTYFC3": "","pHIDDEN": false,"pCTYTAXRULE": [1,"Avoir Fiscal"],"pCTYAWV": ""}}
